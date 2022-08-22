@@ -1,10 +1,21 @@
 ### Hi there 👋, I'm Ibrahim
-#### I am GitHub Readme Generator's creator
+####  web develober
 ![I am GitHub Readme Generator's creator](header.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+My name is Ibrahim Abd El Rahman and I`m a Front-End Software Engineer who creates and designs different websites for clients. 
+Recognized for leadership and collaborative abilities when working in a team setting. Motivation to provide customers with easy-to-use applications.
+Email: ibrahim.abdelrahman.abdelziz@gmail.com
+I have skills in some programming languages ​
+Html5, Css3 , Javascript ,PHP,SQL
+& FrameWork like Reactjs,
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+  ## 🖥️ Skills 
+   - Html5 
+   - Css3
+   - Js
+   - PHP 
+   - React
+   - Node.js
 
 - 🔭 I’m currently working on this page. 
 
