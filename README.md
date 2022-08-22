@@ -22,4 +22,10 @@ Html5, Css3 , Javascript ,PHP,SQL
 
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim2375&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/ibrahim2375)  
+
+
+
 
