@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center" >Hi I am Ibrahim Abd El-Rahman</h1>
+<img src="header.gif" alt="" />
