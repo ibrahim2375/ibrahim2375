@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ibrahim
 ####  web develober
-![I am GitHub Readme Generator's creator](githup.png)
 
+<img width='100%' src='githup1.gif'/>
 My name is Ibrahim Abd El Rahman and I`m a Front-End Web Develober who creates and designs different websites for clients. 
 Recognized for leadership and collaborative abilities when working in a team setting. Motivation to provide customers with easy-to-use applications.
 ```bach
@@ -17,6 +17,7 @@ Html5, Css3 , Javascript ,PHP,SQL
    - Js
    - PHP 
    - React
+   - Next.js
    - Node.js
    - SQL
  
