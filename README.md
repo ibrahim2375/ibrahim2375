@@ -17,6 +17,7 @@ Html5, Css3 , Javascript ,PHP,SQL
    - PHP 
    - React
    - Next.js
+   - Angular
    - Node.js
    - SQL
  
